@@ -35,6 +35,6 @@ The following libraries were utilized in this project:
 ## Conclusion
 The loan eligibility prediction model developed in this project provides a systematic approach to assess loan applications. The use of machine learning techniques can significantly enhance the decision-making process for financial institutions, leading to more efficient and accurate evaluations.
 
-## cAcknowledgments
+## Acknowledgments
 - Kaggle for providing the dataset.
 - The authors of the libraries and all other resources used in this project.
